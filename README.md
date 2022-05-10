@@ -1,2 +1,2 @@
 # ECE3301LabFinal
-Final lab for the Electrical and Computer Engineering Introduction to Microcontrollers
+Final lab for the Electrical and Computer Engineering course: Introduction to Microcontrollers
